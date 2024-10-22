@@ -1,0 +1,43 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co.com/qNcHcXS/3925184.jpg",
+      "title": "Whispers of the Past",
+      "author": "Jane Doe",
+      "author_image": "https://i.ibb.co.com/V21LHGL/authir.jpg",
+      "posted_date": "2023-06-15",
+      "reading_time": "15 min",
+      "hashtags": ["#Fiction", "#Mystery", "#Literature"]
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co.com/8jZpqQz/5942596.jpg",
+      "title": "Echoes of Tomorrow",
+      "author": "John Smith",
+      "author_image": "https://i.ibb.co.com/VVCCqZ7/author2.jpg",
+      "posted_date": "2023-08-10",
+      "reading_time": "20 min",
+      "hashtags": ["#SciFi", "#Adventure", "#Books"]
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co.com/XWVQ2YQ/pf-s89-presentation-08.jpg",
+      "title": "Cooking with Love",
+      "author": "Emily Johnson",
+      "author_image": "https://i.ibb.co.com/tZ7v0yw/author-3.jpg",
+      "posted_date": "2023-09-05",
+      "reading_time": "10 min",
+      "hashtags": ["#Cooking", "#Recipes", "#Foodie"]
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co.com/qMpt2mj/blog-4.webp",
+      "title": "Journey Through the Stars",
+      "author": "Michael Brown",
+      "author_image": "https://i.ibb.co.com/xM94Dq1/author4.jpg",
+      "posted_date": "2023-07-22",
+      "reading_time": "25 min",
+      "hashtags": ["#Space", "#Exploration", "#NonFiction"]
+    }
+    
+  ]
